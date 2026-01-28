@@ -1,0 +1,16 @@
+title: MrApps - Professional Freelance Developer
+description: Hire a professional freelancer for your custom software projects
+baseurl: ""
+url: "https://mrapps.github.io"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - README.md
+  - CLAUDE.md
+  - Gemfile
+  - Gemfile.lock
